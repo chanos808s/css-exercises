@@ -1,0 +1,14 @@
+.yes {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.click {
+    background-color: yellow;
+
+}
+.yes,
+.click {
+    font-size: 28px;
+    font-family: Helvetica, sans-serif, 'Times New Roman', Times, serif;
+}
